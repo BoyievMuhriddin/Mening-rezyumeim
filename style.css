@@ -1,0 +1,30 @@
+body{
+    background-color:black;
+}
+
+#box1{
+    
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color:whitesmoke;
+    font-family: 'DM Serif Display', serif;
+    
+    text-align: center; 
+      
+}
+
+.ruhiyat-img {
+    border: 5px solid white;
+    width: 100%;
+  }
+
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+  }
+
+p{
+    font-family: 'Pacifico', cursive;
+    color:rgb(218, 230, 109);
+}
